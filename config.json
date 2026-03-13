@@ -10,18 +10,136 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Addu ,
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "USERID1", 100091942051676
+        "USERID2"61580277191451
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.json",
+    "APPSTATEPATH": "appstate.json",[
+    {
+        "key": "dbln",
+        "value": "%7B%2261586201410496%22%3A%22unHRIYtL%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.549Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "datr",
+        "value": "38uyacthK7kKLZVgrzNR6SNQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.551Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "sb",
+        "value": "38uyac_XzLqoN_A4gVirG0ah",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.551Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.551Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.551Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61586201410496",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.551Z",
+        "lastAccessed": "2026-03-13T12:24:05.551Z"
+    },
+    {
+        "key": "xs",
+        "value": "12%3AhT1yiiwpuRIpjQ%3A2%3A1773401925%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "fr",
+        "value": "07etUn13PCeXo7qYN.AWeULeygV0TA8ujzrU7BMSUYWZUWQmSWa6mtxrQXLh04y5LtqSQ.Bpssvf..AAA.0.0.Bps_dM.AWeV0SMrLF0nhQ69OjHxFzQMj94",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "pas",
+        "value": "100081123094513%3AoVi4HJpzEy%2C61586201410496%3ANUh4lG1A7Q",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3110%3Btimestamp%3A1773401933",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101431303%3BT%3A29556698",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B676x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T12:24:05.552Z",
+        "lastAccessed": "2026-03-13T12:24:05.552Z"
+    }
+]
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
